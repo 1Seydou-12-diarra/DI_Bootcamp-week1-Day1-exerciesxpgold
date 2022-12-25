@@ -1,0 +1,112 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+header{
+	padding: 1px;
+	text-align: rigth;
+	background:aliceblue;
+	font-size: 15px;
+	border-width:0px;
+	border-style: solid;
+	border-color: red;
+}
+article{
+	border-width:0px;
+	border-style: solid;
+	border-color: red;
+	width: 99.8%;
+	height: 500px;
+	background-image: url("p1.JPEG");
+	background-repeat: no-repeat ;
+	background-size:cover ;
+}
+footer{
+	padding: 20px;
+	text-align: rigth;
+	background:white;
+	font-size: 20px;
+	border-width:0px;
+	border-style: solid;
+	border-color: red;
+	height: 250px;
+
+
+}
+        .col {
+        	border: 0px solid black;
+            border-color: red;
+            height:200px;
+            width:30%;
+            margin-left:2.1%;
+            display: inline-block;
+            
+        }
+   
+        
+        .col-left {
+        	border: 0px solid black;
+            border-color: red;
+            background-color: white;
+            margin-left: 30px;
+        }
+        .col-mid {
+        	border: 0px solid black;
+            border-color: red;
+            background-color: white;
+        }
+        .col-right {
+        	border: 0px solid black;
+            border-color: red;
+            background-color: white;
+        }
+h2{
+	text-align: center;
+	padding-top: 150px;
+	padding-bottom: 100px;
+	border-width:1px;
+	color: white;
+}
+
+input{
+	margin-left: 50%;
+	transform: translateX(-50%); 
+	padding: 5px;
+	border-width:1px;
+	height: 30px;
+	width: 200px;
+	
+
+}
+button{
+	display: inline-block;
+	background: blue;
+	height: 42px;
+	width: 100px;
+	margin-left: -7.7%;
+
+}
+.s{
+	padding: 0;
+	text-align: left;
+	color:white;
+	font-size: 21px;
+	color: black;
+	margin-left: 20px;
+}
+label{
+	background:blue;
+	padding: 0;
+	text-align: left;
+	color:white;
+	font-size: 30%;
+	margin-left: 75%;
+
+}
+i{
+	color: blue;
+	font-size: 45px;
+}
+
+
+
